@@ -9,10 +9,10 @@ public class Inventory {
     public Inventory() {
         stock = new HashMap<>();
 
-        stock.put("Basketball", 5);
-        stock.put("Toy Car", 5);
-        stock.put("Teddy Bear", 5);
-        stock.put("Barbie Doll", 5);
+       stock.put("Cellphone", 5);
+stock.put("Toy Car", 5);
+stock.put("1kyaw", 5);
+stock.put("Barbie Doll", 5);
     }
 
     public boolean hasStock(String giftName) {
